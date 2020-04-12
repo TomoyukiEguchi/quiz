@@ -1,0 +1,20 @@
+.m-2 {
+	box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.1), -6px -6px 10px white;
+	float: right;
+	width: calc(35% - 10px);
+}
+.btn-group > .btn {
+	color: #6c757d;
+    background-color: #f2f3f7; 
+    border-color: #f2f3f7;
+}
+h4 {
+    margin: 0;
+}
+.jumbotron {
+    padding: 3rem 2rem;
+}
+.my-4 {
+    margin-top: 3rem !important;
+    margin-bottom: 2.5rem !important;
+}
